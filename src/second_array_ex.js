@@ -23,3 +23,4 @@ const data = [
 
   array_1.fill("vinod");
   console.log(array_1);
+  console.log(array_1.length)
