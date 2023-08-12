@@ -1,0 +1,25 @@
+{
+  "name": "complete_javascript_practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinodvr81/Complete_Javascript_practise.git"
+  },
+  "keywords": [
+    "complete",
+    "modern",
+    "javacript",
+    "practise"
+  ],
+  "author": "vinod vukkalam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinodvr81/Complete_Javascript_practise/issues"
+  },
+  "homepage": "https://github.com/vinodvr81/Complete_Javascript_practise#readme"
+}
